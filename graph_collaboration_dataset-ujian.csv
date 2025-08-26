@@ -1,0 +1,501 @@
+paper_id,author_name,co_authors,publication_year
+1000,Dr. Samantha Allen,Dr. Heather Diaz; Dr. Tyler Hart,2023
+1001,Dr. Samantha Allen,Dr. Michael Banks,2022
+1002,Dr. William Barr,Dr. Randy Caldwell,2017
+1003,Dr. Justin Fitzgerald,Dr. Raymond Montoya,2016
+1004,Dr. Mitchell Wood,Dr. Roy Bryant,2023
+1005,Dr. Holly Wolf,Dr. Tonya Shea,2021
+1006,Dr. Mary White,Dr. Maria Case; Dr. Janet Holmes; Dr. Jose Lara,2019
+1007,Dr. Cynthia Coleman,Dr. Thomas Johnson; Dr. Adam Green,2020
+1008,Dr. Lori Green,Dr. Jose Lara,2016
+1009,Dr. Crystal Jackson,Dr. Alyssa Velasquez; Dr. Andrea Hicks; Dr. Christopher Stanley,2022
+1010,Dr. David Scott,Dr. Rodney Marsh; Dr. Brandon Alvarez; Dr. Suzanne Jones,2019
+1011,Dr. Holly Wolf,Dr. Elizabeth Romero; Dr. Kerri Hawkins; Dr. Suzanne Jones,2016
+1012,Dr. Stacy Hanson,Dr. Elizabeth Romero; Dr. Todd English; Dr. Lori Green,2019
+1013,Dr. Matthew Smith,Dr. James Ayala; Dr. Devin Bell,2024
+1014,Dr. Mark Weiss,Dr. Roy Bryant,2015
+1015,Dr. Larry Brandt,Dr. Devin Bell,2020
+1016,Dr. Carolyn Munoz,Dr. Raymond Montoya; Dr. Shawn Flores; Dr. David Scott,2016
+1017,Dr. George Lester,Dr. Alyssa Velasquez; Dr. Steve Ruiz,2017
+1018,Dr. Shannon Hess,Dr. Derrick Melendez,2024
+1019,Dr. Brian Chen,Dr. Danny Barnes; Dr. Anthony Palmer,2022
+1020,Dr. Steve Ruiz,Dr. Christopher Stanley; Dr. Janet Holmes; Dr. John Brown,2015
+1021,Dr. Katherine Clark,Dr. Devin Bell; Dr. Latasha Thomas; Dr. Raymond Montoya,2022
+1022,Dr. Latasha Thomas,Dr. Angela Wood; Dr. Billy Pacheco; Dr. George Lester,2016
+1023,Dr. Cynthia Coleman,Dr. Katherine Clark; Dr. Derrick Melendez; Dr. Kelsey Stuart,2017
+1024,Dr. Cynthia Hinton,Dr. Heather Diaz; Dr. Richard Cook,2020
+1025,Dr. Carolyn Munoz,Dr. Richard Cook,2017
+1026,Dr. Jared Hart,Dr. Mary White; Dr. Larry Brandt; Dr. Katherine Clark,2022
+1027,Dr. John Harding,Dr. Jared Hart,2024
+1028,Dr. Debra Taylor,Dr. Jared Hart,2019
+1029,Dr. Todd English,Dr. Susan Collins,2022
+1030,Dr. Rodney Marsh,Dr. Tiffany Hall,2019
+1031,Dr. Jose Lara,Dr. Angela Wood; Dr. William Singleton,2021
+1032,Dr. Heather Diaz,Dr. Elizabeth Romero; Dr. Tyler Hart; Dr. Jared Hart,2021
+1033,Dr. Sarah Morris,Dr. James Ayala,2015
+1034,Dr. Jared Hart,Dr. Holly Wolf; Dr. Mitchell Wood,2020
+1035,Dr. Adam Green,Dr. Heather Diaz,2018
+1036,Dr. Stacy Hanson,Dr. Michael Long; Dr. Amanda Wade,2020
+1037,Dr. Sierra Olson,Dr. William Singleton,2019
+1038,Dr. Lori Green,Dr. Shawn Flores; Dr. Cheryl Carter,2018
+1039,Dr. Alyssa Velasquez,Dr. Dominique Perez; Dr. Cheryl Carter,2023
+1040,Dr. Eric Woods,Dr. Stacy Hanson; Dr. Brandon Alvarez,2020
+1041,Dr. Steve Ruiz,Dr. Matthew Smith; Dr. Janet Holmes,2016
+1042,Dr. John Brown,Dr. Jeffery Hines; Dr. Richard Cook,2020
+1043,Dr. Maria Case,Dr. Barbara Kirk; Dr. Cheryl Carter,2019
+1044,Dr. Christopher Stanley,Dr. Andrea Graham; Dr. Holly Wolf,2021
+1045,Dr. Angela Wood,Dr. Barbara Kirk; Dr. Kimberly Zuniga; Dr. Shannon Hess,2021
+1046,Dr. Susan Collins,Dr. Todd English,2017
+1047,Dr. John Brown,Dr. Michael Banks; Dr. Katherine Clark; Dr. Susan Collins,2023
+1048,Dr. Melissa Torres,Dr. Maria Case,2015
+1049,Dr. Sarah Morris,Dr. Debra Taylor; Dr. Melissa Torres,2019
+1050,Dr. Cheryl Carter,Dr. Devin Bell,2020
+1051,Dr. Billy Pacheco,Dr. Matthew Smith,2023
+1052,Dr. Erika Morrison,Dr. Justin Fitzgerald,2021
+1053,Dr. Michael Long,Dr. Alyssa Velasquez; Dr. Erika Williams,2017
+1054,Dr. Jose Lara,Dr. Kelsey Stuart; Dr. Brian Chen,2019
+1055,Dr. Jose Lara,Dr. Danny Barnes; Dr. Jeffery Hines,2020
+1056,Dr. Carmen Castaneda,Dr. David Burns; Dr. Kevin Torres; Dr. Robert Hall,2020
+1057,Dr. Todd English,Dr. William Barr,2019
+1058,Dr. David Scott,Dr. Mark Weiss,2022
+1059,Dr. David Villarreal,Dr. Heather Diaz; Dr. Cheryl Carter,2024
+1060,Dr. Latasha Thomas,Dr. Thomas Hill; Dr. Ronnie Sullivan,2021
+1061,Dr. Andrea Graham,Dr. Devin Bell,2024
+1062,Dr. Larry Brandt,Dr. Carmen Castaneda,2023
+1063,Dr. Crystal Jackson,Dr. Randy Caldwell,2017
+1064,Dr. Brandon Alvarez,Dr. John Harding,2022
+1065,Dr. Adam Green,Dr. Betty Baker; Dr. Andrea Hicks; Dr. Mary White,2024
+1066,Dr. Kelsey Stuart,Dr. Jeffery Hines; Dr. Danny Barnes,2023
+1067,Dr. Andrea Graham,Dr. Samantha Allen; Dr. Mary White; Dr. David Burns,2019
+1068,Dr. Eric Woods,Dr. Katherine Clark,2022
+1069,Dr. Derrick Melendez,Dr. Alyssa Velasquez; Dr. Thomas Hill,2021
+1070,Dr. Anthony Palmer,Dr. Thomas Johnson,2022
+1071,Dr. Sierra Castillo,Dr. Ashley Rivera; Dr. Cynthia Coleman,2020
+1072,Dr. Melissa Martinez,Dr. Jason Gentry,2023
+1073,Dr. Tyler Hart,Dr. Devin Bell; Dr. Ronnie Sullivan,2024
+1074,Dr. Matthew Smith,Dr. Alyssa Velasquez; Dr. William Singleton; Dr. Kevin Torres,2020
+1075,Dr. Rodney Marsh,Dr. Jose Lara; Dr. Susan Collins,2016
+1076,Dr. Mary White,Dr. Erika Williams; Dr. Kelsey Stuart; Dr. Crystal Jackson,2024
+1077,Dr. Rodney Marsh,Dr. Anthony Palmer,2020
+1078,Dr. Jose Lara,Dr. Derrick Melendez,2020
+1079,Dr. Todd English,Dr. Kerri Hawkins,2021
+1080,Dr. Rodney Marsh,Dr. Janet Holmes; Dr. Olivia Underwood,2018
+1081,Dr. Melissa Martinez,Dr. Todd English; Dr. Kelsey Stuart; Dr. Tiffany Hall,2018
+1082,Dr. Katherine Clark,Dr. Larry Brandt; Dr. John Harding; Dr. Adam Green,2015
+1083,Dr. Betty Baker,Dr. Justin Fitzgerald; Dr. David Burns,2019
+1084,Dr. Raymond Montoya,Dr. Larry Brandt; Dr. Kevin Torres; Dr. Richard Garcia,2018
+1085,Dr. Crystal Jackson,Dr. Erika Morrison,2020
+1086,Dr. Holly Wolf,Dr. Carmen Castaneda,2023
+1087,Dr. Raymond Montoya,Dr. Billy Pacheco; Dr. Mary White,2021
+1088,Dr. Michael Long,Dr. Richard Garcia; Dr. Sarah Morris,2018
+1089,Dr. George Lester,Dr. Erika Williams; Dr. Carmen Castaneda,2020
+1090,Dr. Michael Long,Dr. Michael Scott; Dr. Sarah Morris; Dr. David Scott,2017
+1091,Dr. Suzanne Jones,Dr. Cheryl Carter; Dr. Thomas Hill,2018
+1092,Dr. Matthew Smith,Dr. Michael Long; Dr. Carolyn Munoz,2020
+1093,Dr. Mary White,Dr. Derrick Melendez; Dr. Matthew Gonzales; Dr. Shawn Flores,2019
+1094,Dr. Erika Morrison,Dr. Barbara Kirk; Dr. Dominique Perez; Dr. Tiffany Hall,2024
+1095,Dr. Shannon Hess,Dr. Sierra Olson; Dr. Susan Collins,2024
+1096,Dr. Jared Hart,Dr. Thomas Johnson; Dr. Amanda Wade; Dr. Melissa Torres,2024
+1097,Dr. Randy Caldwell,Dr. Mark Weiss; Dr. Sarah Mills; Dr. Michael Banks,2015
+1098,Dr. William Barr,Dr. Kelly Fisher; Dr. Thomas Johnson; Dr. Mitchell Wood,2021
+1099,Dr. Melissa Martinez,Dr. Mitchell Wood; Dr. Katherine Clark; Dr. Jared Hart,2016
+1100,Dr. John Brown,Dr. Todd English,2017
+1101,Dr. Brandon Alvarez,Dr. Kerri Hawkins,2016
+1102,Dr. Rodney Marsh,Dr. James Ayala,2017
+1103,Dr. Richard Cook,Dr. Carolyn Wagner; Dr. Erika Williams; Dr. Christopher Stanley,2024
+1104,Dr. Tiffany Hall,Dr. Amanda Wade; Dr. Barbara Kirk; Dr. Brian Chen,2024
+1105,Dr. Matthew Smith,Dr. John Brown; Dr. Shannon Hess; Dr. Heather Diaz,2023
+1106,Dr. Michael Scott,Dr. Maria Case; Dr. Adam Green,2016
+1107,Dr. Anthony Palmer,Dr. David Scott,2022
+1108,Dr. Tyler Hart,Dr. John Harding; Dr. Robert Hall,2022
+1109,Dr. Todd English,Dr. Andrea Graham,2020
+1110,Dr. Roy Bryant,Dr. David Villarreal; Dr. Brian Chen,2021
+1111,Dr. David Burns,Dr. Randy Caldwell; Dr. Melissa Martinez; Dr. Cynthia Hinton,2021
+1112,Dr. Matthew Smith,Dr. Heather Diaz; Dr. Michael Long; Dr. Melissa Torres,2018
+1113,Dr. Mary White,Dr. Tiffany Hall,2017
+1114,Dr. Erica Schroeder,Dr. Andrea Hicks; Dr. Tiffany Hall; Dr. Melissa Martinez,2021
+1115,Dr. Elizabeth Romero,Dr. Matthew Smith; Dr. Shawn Flores; Dr. Maria Case,2022
+1116,Dr. Melissa Torres,Dr. Randy Caldwell; Dr. Deborah Avila,2017
+1117,Dr. Deborah Avila,Dr. David Burns; Dr. Michael Long,2020
+1118,Dr. Jason Gentry,Dr. Robert Hall; Dr. Devin Bell,2022
+1119,Dr. Deborah Avila,Dr. Kerri Hawkins; Dr. Roy Bryant; Dr. Carolyn Wagner,2020
+1120,Dr. Cynthia Coleman,Dr. Alyssa Velasquez; Dr. Shawn Flores,2021
+1121,Dr. Lori Green,Dr. Angela Wood,2018
+1122,Dr. Cynthia Hinton,Dr. John Harding,2015
+1123,Dr. Maria Case,Dr. Cynthia Coleman; Dr. Rodney Marsh; Dr. Andrea Hicks,2021
+1124,Dr. Justin Fitzgerald,Dr. Tonya Shea,2018
+1125,Dr. Erica Schroeder,Dr. Crystal Jackson,2024
+1126,Dr. Tyler Hart,Dr. Angela Wood; Dr. Olivia Underwood,2017
+1127,Dr. Robert Hall,Dr. Raymond Montoya; Dr. David Gill; Dr. Jason Gentry,2023
+1128,Dr. Larry Brandt,Dr. William Barr; Dr. Crystal Jackson; Dr. Carmen Castaneda,2017
+1129,Dr. Melissa Torres,Dr. Matthew Gonzales; Dr. Debra Taylor,2016
+1130,Dr. Billy Pacheco,Dr. Sarah Mills; Dr. Latasha Thomas; Dr. Debra Taylor,2019
+1131,Dr. Jennifer Oneill,Dr. Samantha Allen,2022
+1132,Dr. Jason Gentry,Dr. Barbara Kirk,2023
+1133,Dr. Melissa Martinez,Dr. Sarah Mills,2024
+1134,Dr. Ashley Rivera,Dr. Roy Bryant,2023
+1135,Dr. Andrea Hicks,Dr. Shawn Flores,2021
+1136,Dr. Suzanne Jones,Dr. Tyler Hart,2020
+1137,Dr. Elizabeth Romero,Dr. Dominique Perez,2015
+1138,Dr. Jennifer Oneill,Dr. Shannon Hess,2016
+1139,Dr. David Villarreal,Dr. Jared Hart,2021
+1140,Dr. Richard Garcia,Dr. Shawn Flores,2024
+1141,Dr. Eric Woods,Dr. Jose Lara,2021
+1142,Dr. Ronnie Sullivan,Dr. Sarah Morris; Dr. Michael Long,2016
+1143,Dr. Sierra Castillo,Dr. Brandon Alvarez; Dr. Deborah Avila,2022
+1144,Dr. David Gill,Dr. Cynthia Coleman; Dr. Ronnie Sullivan,2024
+1145,Dr. Erica Schroeder,Dr. Deborah Avila,2023
+1146,Dr. Ronnie Sullivan,Dr. Richard Cook; Dr. Michael Scott; Dr. Anthony Palmer,2022
+1147,Dr. George Lester,Dr. Tyler Hart; Dr. David Scott,2022
+1148,Dr. Cheryl Carter,Dr. Latasha Thomas; Dr. Suzanne Jones,2023
+1149,Dr. Betty Baker,Dr. Heather Diaz; Dr. Sarah Mills; Dr. Brandon Alvarez,2024
+1150,Dr. Thomas Hill,Dr. Deborah Avila; Dr. Larry Brandt; Dr. Jeffery Hines,2023
+1151,Dr. Holly Wolf,Dr. Kelsey Stuart; Dr. Cynthia Coleman,2021
+1152,Dr. Latasha Thomas,Dr. Mary White,2016
+1153,Dr. Matthew Gonzales,Dr. Janet Holmes,2022
+1154,Dr. James Ayala,Dr. Richard Garcia; Dr. Jason Collins,2017
+1155,Dr. Dominique Perez,Dr. Devin Bell; Dr. Cynthia Hinton; Dr. David Burns,2024
+1156,Dr. Jennifer Oneill,Dr. Jason Collins; Dr. Christopher Stanley,2020
+1157,Dr. William Barr,Dr. Maria Case,2022
+1158,Dr. Debra Taylor,Dr. Elizabeth Romero,2015
+1159,Dr. Kelly Fisher,Dr. Shannon Hess,2022
+1160,Dr. Roy Bryant,Dr. David Burns,2017
+1161,Dr. Maria Case,Dr. Betty Baker; Dr. Richard Cook,2017
+1162,Dr. Carmen Castaneda,Dr. Robert Hall; Dr. Suzanne Jones; Dr. Barbara Kirk,2019
+1163,Dr. Sierra Castillo,Dr. Richard Garcia; Dr. Roy Bryant; Dr. William Singleton,2016
+1164,Dr. Shannon Hess,Dr. Steve Ruiz; Dr. Ronnie Sullivan,2016
+1165,Dr. Deborah Avila,Dr. Carmen Castaneda,2015
+1166,Dr. Sierra Olson,Dr. Randy Caldwell; Dr. Jason Collins; Dr. David Gill,2017
+1167,Dr. Devin Bell,Dr. George Lester,2018
+1168,Dr. Andrea Hicks,Dr. Melissa Martinez; Dr. Janet Holmes; Dr. Roy Bryant,2022
+1169,Dr. Maria Case,Dr. Steve Ruiz; Dr. Betty Baker,2021
+1170,Dr. Melissa Torres,Dr. Justin Fitzgerald; Dr. Tonya Shea,2016
+1171,Dr. Jared Hart,Dr. David Burns; Dr. Steve Ruiz,2022
+1172,Dr. Mitchell Wood,Dr. Michelle Williams; Dr. James Ayala,2022
+1173,Dr. Betty Baker,Dr. Barbara Kirk,2017
+1174,Dr. Adam Green,Dr. Ashley Rivera,2022
+1175,Dr. Tiffany Hall,Dr. Richard Cook; Dr. Susan Collins,2016
+1176,Dr. Steve Ruiz,Dr. Barbara Kirk; Dr. William Singleton,2023
+1177,Dr. Derrick Melendez,Dr. Samantha Allen,2023
+1178,Dr. Michael Banks,Dr. Ashley Rivera; Dr. Brian Chen; Dr. Deborah Avila,2015
+1179,Dr. Carmen Castaneda,Dr. Eric Woods; Dr. Richard Cook,2019
+1180,Dr. Cynthia Coleman,Dr. Betty Baker; Dr. Erica Schroeder; Dr. Kerri Hawkins,2017
+1181,Dr. Amanda Wade,Dr. Ashley Rivera; Dr. Stacy Hanson,2018
+1182,Dr. Sierra Castillo,Dr. Andrea Graham,2017
+1183,Dr. Jason Collins,Dr. Susan Collins; Dr. Larry Brandt; Dr. Danny Barnes,2020
+1184,Dr. David Villarreal,Dr. Tonya Shea; Dr. Sarah Walker; Dr. Heather Diaz,2015
+1185,Dr. Sarah Mills,Dr. Debra Taylor; Dr. Christopher Stanley,2016
+1186,Dr. Cynthia Hinton,Dr. Shawn Flores; Dr. Kelly Fisher,2021
+1187,Dr. Susan Collins,Dr. Cynthia Hinton; Dr. Sierra Olson; Dr. Thomas Johnson,2015
+1188,Dr. Derrick Melendez,Dr. Ronnie Sullivan; Dr. Brandon Alvarez,2022
+1189,Dr. Maria Case,Dr. Derrick Melendez; Dr. Adam Green,2017
+1190,Dr. Derrick Melendez,Dr. Tyler Hart,2023
+1191,Dr. Rodney Marsh,Dr. Christopher Stanley; Dr. Ronnie Sullivan,2017
+1192,Dr. Shannon Hess,Dr. Suzanne Jones; Dr. Robert Hall,2019
+1193,Dr. Janet Holmes,Dr. James Ayala; Dr. William Barr; Dr. Lori Green,2024
+1194,Dr. Olivia Underwood,Dr. William Barr,2016
+1195,Dr. Angela Wood,Dr. Adam Green,2020
+1196,Dr. Thomas Johnson,Dr. Elizabeth Romero,2024
+1197,Dr. Jennifer Oneill,Dr. Thomas Hill,2023
+1198,Dr. Maria Case,Dr. Carolyn Munoz,2024
+1199,Dr. Sierra Castillo,Dr. John Brown; Dr. Steve Ruiz; Dr. Jared Hart,2016
+1200,Dr. William Barr,Dr. Michael Long,2023
+1201,Dr. Larry Brandt,Dr. Kelsey Stuart; Dr. Cynthia Hinton; Dr. Mark Weiss,2019
+1202,Dr. Billy Pacheco,Dr. Kelly Fisher,2017
+1203,Dr. Betty Baker,Dr. Deborah Avila; Dr. Heather Diaz; Dr. Melissa Torres,2019
+1204,Dr. Derrick Melendez,Dr. Elizabeth Romero,2019
+1205,Dr. George Lester,Dr. Rodney Marsh,2024
+1206,Dr. Jennifer Oneill,Dr. Barbara Kirk; Dr. Jason Collins,2024
+1207,Dr. Shawn Flores,Dr. Eric Woods,2015
+1208,Dr. Latasha Thomas,Dr. David Villarreal; Dr. Thomas Hill,2021
+1209,Dr. Cynthia Hinton,Dr. Robert Hall; Dr. Jason Collins,2018
+1210,Dr. Carolyn Munoz,Dr. Holly Wolf; Dr. Erica Schroeder; Dr. Heather Diaz,2023
+1211,Dr. Steve Ruiz,Dr. Sierra Castillo; Dr. Kimberly Zuniga,2022
+1212,Dr. Jason Collins,Dr. Samantha Allen; Dr. Michael Banks,2022
+1213,Dr. Brian Chen,Dr. Michael Banks; Dr. Shannon Hess,2024
+1214,Dr. Steve Ruiz,Dr. Michael Long; Dr. Deborah Avila,2021
+1215,Dr. Danny Barnes,Dr. Janet Holmes; Dr. Randy Caldwell; Dr. Debra Taylor,2017
+1216,Dr. Janet Holmes,Dr. Crystal Jackson,2022
+1217,Dr. Andrea Hicks,Dr. Jason Collins,2024
+1218,Dr. Heather Diaz,Dr. Katherine Clark; Dr. Susan Collins; Dr. Eric Woods,2017
+1219,Dr. Michael Banks,Dr. Sierra Olson; Dr. Jason Gentry; Dr. David Burns,2015
+1220,Dr. Brian Chen,Dr. Dominique Perez; Dr. Heather Diaz,2022
+1221,Dr. Michael Scott,Dr. Holly Wolf; Dr. Andrea Graham,2023
+1222,Dr. John Brown,Dr. David Villarreal; Dr. Tonya Shea,2015
+1223,Dr. Mitchell Wood,Dr. Kelsey Stuart; Dr. Sierra Castillo,2024
+1224,Dr. Kelly Fisher,Dr. Susan Collins; Dr. Carmen Castaneda,2024
+1225,Dr. Kelly Fisher,Dr. Kevin Torres; Dr. Robert Hall; Dr. Erica Schroeder,2019
+1226,Dr. Ronnie Sullivan,Dr. Randy Caldwell,2018
+1227,Dr. Ronnie Sullivan,Dr. Michael Scott; Dr. Dominique Perez,2020
+1228,Dr. Cynthia Coleman,Dr. Rodney Marsh; Dr. Jose Lara; Dr. Derrick Melendez,2017
+1229,Dr. Cynthia Coleman,Dr. Tonya Shea,2022
+1230,Dr. Derrick Melendez,Dr. Ronnie Sullivan; Dr. Katherine Clark; Dr. Brian Chen,2016
+1231,Dr. Thomas Hill,Dr. Lori Green; Dr. Sierra Olson,2024
+1232,Dr. John Brown,Dr. Matthew Gonzales; Dr. Steve Ruiz; Dr. Sarah Walker,2022
+1233,Dr. Mark Weiss,Dr. Erica Schroeder; Dr. Lori Green; Dr. John Brown,2023
+1234,Dr. Amanda Wade,Dr. Stacy Hanson,2021
+1235,Dr. David Scott,Dr. Kimberly Zuniga; Dr. Betty Baker,2017
+1236,Dr. Michael Long,Dr. Betty Baker; Dr. Thomas Johnson; Dr. Matthew Gonzales,2023
+1237,Dr. Jose Lara,Dr. Justin Fitzgerald; Dr. Kevin Torres; Dr. Debra Taylor,2017
+1238,Dr. Jeffery Hines,Dr. Roy Bryant,2017
+1239,Dr. David Burns,Dr. Heather Diaz,2017
+1240,Dr. Kevin Torres,Dr. Tonya Shea; Dr. Jared Hart,2017
+1241,Dr. Cheryl Carter,Dr. Danny Barnes; Dr. Christopher Stanley,2015
+1242,Dr. Jeffery Hines,Dr. Debra Taylor,2023
+1243,Dr. Steve Ruiz,Dr. Richard Garcia,2019
+1244,Dr. Carolyn Munoz,Dr. Roy Bryant; Dr. Barbara Kirk,2019
+1245,Dr. Brandon Alvarez,Dr. John Brown,2018
+1246,Dr. Jeffery Hines,Dr. Suzanne Jones; Dr. Michael Scott,2015
+1247,Dr. Susan Collins,Dr. William Singleton; Dr. Latasha Thomas; Dr. Alyssa Velasquez,2015
+1248,Dr. Kimberly Zuniga,Dr. Stacy Hanson,2022
+1249,Dr. Alyssa Velasquez,Dr. Cynthia Hinton; Dr. Cynthia Coleman; Dr. John Brown,2024
+1250,Dr. Tiffany Hall,Dr. Tonya Shea,2016
+1251,Dr. Alyssa Velasquez,Dr. David Villarreal; Dr. Raymond Montoya,2024
+1252,Dr. Samantha Allen,Dr. Dominique Perez; Dr. Mary White; Dr. David Gill,2016
+1253,Dr. John Harding,Dr. Raymond Montoya; Dr. Brian Chen,2019
+1254,Dr. Lori Green,Dr. John Harding; Dr. Rodney Marsh,2015
+1255,Dr. Matthew Smith,Dr. Robert Hall; Dr. Samantha Allen; Dr. Amanda Wade,2021
+1256,Dr. Cynthia Coleman,Dr. Michael Scott; Dr. Olivia Underwood; Dr. Danny Barnes,2016
+1257,Dr. Sarah Walker,Dr. Matthew Gonzales; Dr. Richard Cook,2021
+1258,Dr. Jose Lara,Dr. Richard Cook,2020
+1259,Dr. Carolyn Wagner,Dr. Cheryl Carter; Dr. Jason Gentry; Dr. Justin Fitzgerald,2024
+1260,Dr. Cheryl Carter,Dr. Samantha Allen,2021
+1261,Dr. Justin Fitzgerald,Dr. Jose Lara; Dr. Matthew Smith; Dr. Angela Wood,2017
+1262,Dr. Shawn Flores,Dr. David Villarreal; Dr. Kevin Torres,2020
+1263,Dr. Crystal Jackson,Dr. Elizabeth Romero; Dr. William Barr; Dr. Adam Green,2023
+1264,Dr. Michael Scott,Dr. Alyssa Velasquez; Dr. Katherine Clark,2015
+1265,Dr. Katherine Clark,Dr. Rodney Marsh,2016
+1266,Dr. Adam Green,Dr. Katherine Clark,2023
+1267,Dr. Thomas Johnson,Dr. Devin Bell,2021
+1268,Dr. John Harding,Dr. David Villarreal; Dr. Sierra Olson,2023
+1269,Dr. Eric Woods,Dr. Elizabeth Romero; Dr. Samantha Allen; Dr. James Ayala,2022
+1270,Dr. Andrea Graham,Dr. Kerri Hawkins,2024
+1271,Dr. Tonya Shea,Dr. Justin Fitzgerald; Dr. Todd English; Dr. Deborah Avila,2017
+1272,Dr. Debra Taylor,Dr. Sierra Olson; Dr. Holly Wolf,2024
+1273,Dr. Melissa Martinez,Dr. Sierra Olson; Dr. Andrea Graham; Dr. Jared Hart,2018
+1274,Dr. Erica Schroeder,Dr. Carmen Castaneda; Dr. Danny Barnes; Dr. Amanda Wade,2021
+1275,Dr. David Villarreal,Dr. Cynthia Coleman; Dr. Elizabeth Romero,2024
+1276,Dr. Mary White,Dr. Cynthia Coleman; Dr. Kelsey Stuart,2016
+1277,Dr. Barbara Kirk,Dr. Ronnie Sullivan; Dr. Sarah Morris,2021
+1278,Dr. Kerri Hawkins,Dr. Andrea Graham; Dr. Thomas Johnson,2017
+1279,Dr. Melissa Torres,Dr. Katherine Clark; Dr. Tiffany Hall; Dr. Kevin Torres,2015
+1280,Dr. Andrea Graham,Dr. Suzanne Jones; Dr. Michael Banks; Dr. Richard Cook,2024
+1281,Dr. Matthew Gonzales,Dr. Jennifer Oneill,2024
+1282,Dr. Sierra Castillo,Dr. Kerri Hawkins; Dr. Danny Barnes; Dr. Tonya Shea,2016
+1283,Dr. Amanda Wade,Dr. Tyler Hart,2018
+1284,Dr. Raymond Montoya,Dr. John Brown; Dr. Michelle Williams,2015
+1285,Dr. Kelsey Stuart,Dr. Larry Brandt; Dr. Brian Chen; Dr. Katherine Clark,2019
+1286,Dr. Mitchell Wood,Dr. Kelly Fisher; Dr. Richard Garcia,2017
+1287,Dr. Erika Morrison,Dr. Matthew Gonzales; Dr. Todd English,2018
+1288,Dr. Tyler Hart,Dr. Christopher Stanley; Dr. Tonya Shea,2023
+1289,Dr. Carolyn Munoz,Dr. Todd English,2020
+1290,Dr. Kerri Hawkins,Dr. Andrea Hicks; Dr. Billy Pacheco; Dr. Kelly Fisher,2020
+1291,Dr. Kimberly Zuniga,Dr. Thomas Hill; Dr. Devin Bell,2021
+1292,Dr. Melissa Torres,Dr. Kelly Fisher; Dr. Alyssa Velasquez; Dr. Lori Green,2016
+1293,Dr. Erika Williams,Dr. Anthony Palmer; Dr. Sarah Walker,2022
+1294,Dr. Sierra Olson,Dr. Christopher Stanley; Dr. Cynthia Hinton; Dr. Janet Holmes,2021
+1295,Dr. Ashley Rivera,Dr. Deborah Avila; Dr. Justin Fitzgerald,2016
+1296,Dr. Mitchell Wood,Dr. William Barr; Dr. Andrea Hicks,2019
+1297,Dr. Jason Collins,Dr. Jose Lara,2021
+1298,Dr. Jose Lara,Dr. George Lester,2021
+1299,Dr. David Villarreal,Dr. Sarah Mills; Dr. Carolyn Wagner,2020
+1300,Dr. Justin Fitzgerald,Dr. Olivia Underwood,2016
+1301,Dr. John Brown,Dr. Ashley Rivera; Dr. Jennifer Oneill,2018
+1302,Dr. Melissa Torres,Dr. Deborah Avila; Dr. Brandon Alvarez,2020
+1303,Dr. Katherine Clark,Dr. Deborah Avila; Dr. Melissa Torres; Dr. Sierra Castillo,2015
+1304,Dr. Justin Fitzgerald,Dr. Cheryl Carter; Dr. William Singleton; Dr. Susan Collins,2024
+1305,Dr. Sarah Walker,Dr. Cynthia Coleman; Dr. Holly Wolf; Dr. Matthew Smith,2023
+1306,Dr. Ronnie Sullivan,Dr. Michelle Williams,2020
+1307,Dr. Andrea Graham,Dr. Kelsey Stuart,2021
+1308,Dr. William Barr,Dr. Roy Bryant; Dr. Kerri Hawkins,2024
+1309,Dr. Todd English,Dr. David Burns; Dr. Kelsey Stuart; Dr. Richard Cook,2021
+1310,Dr. Brandon Alvarez,Dr. Jared Hart,2021
+1311,Dr. Jennifer Oneill,Dr. Cynthia Coleman; Dr. Brandon Alvarez; Dr. Thomas Hill,2017
+1312,Dr. Matthew Smith,Dr. Justin Fitzgerald,2016
+1313,Dr. Danny Barnes,Dr. Randy Caldwell; Dr. Raymond Montoya,2015
+1314,Dr. Raymond Montoya,Dr. Billy Pacheco; Dr. Melissa Martinez; Dr. William Singleton,2020
+1315,Dr. Janet Holmes,Dr. Rodney Marsh; Dr. Richard Garcia,2015
+1316,Dr. Cheryl Carter,Dr. Barbara Kirk; Dr. Thomas Johnson,2016
+1317,Dr. Shawn Flores,Dr. Erica Schroeder; Dr. Justin Fitzgerald; Dr. Steve Ruiz,2017
+1318,Dr. Olivia Underwood,Dr. Betty Baker; Dr. Barbara Kirk; Dr. Brandon Alvarez,2024
+1319,Dr. Anthony Palmer,Dr. Brandon Alvarez; Dr. Cynthia Hinton; Dr. Robert Hall,2018
+1320,Dr. Heather Diaz,Dr. Raymond Montoya; Dr. Richard Garcia; Dr. Erica Schroeder,2017
+1321,Dr. David Villarreal,Dr. Devin Bell,2017
+1322,Dr. Sierra Olson,Dr. Justin Fitzgerald; Dr. Elizabeth Romero,2016
+1323,Dr. Matthew Gonzales,Dr. William Singleton; Dr. Adam Green,2024
+1324,Dr. Ashley Rivera,Dr. Matthew Smith; Dr. Betty Baker,2023
+1325,Dr. Raymond Montoya,Dr. Ronnie Sullivan; Dr. Rodney Marsh; Dr. Susan Collins,2015
+1326,Dr. Steve Ruiz,Dr. Tonya Shea; Dr. Jason Collins,2023
+1327,Dr. Sierra Olson,Dr. Kerri Hawkins,2023
+1328,Dr. Suzanne Jones,Dr. Angela Wood; Dr. Michael Long,2023
+1329,Dr. Angela Wood,Dr. Debra Taylor,2015
+1330,Dr. Adam Green,Dr. Tiffany Hall; Dr. Alyssa Velasquez,2017
+1331,Dr. Matthew Smith,Dr. Shannon Hess,2015
+1332,Dr. Andrea Hicks,Dr. Michael Long; Dr. Derrick Melendez,2017
+1333,Dr. Olivia Underwood,Dr. Tonya Shea; Dr. Sarah Morris,2020
+1334,Dr. Carolyn Wagner,Dr. Olivia Underwood; Dr. Robert Hall,2024
+1335,Dr. Janet Holmes,Dr. Susan Collins; Dr. Shannon Hess; Dr. Matthew Gonzales,2022
+1336,Dr. Kimberly Zuniga,Dr. Michael Scott; Dr. Deborah Avila; Dr. Devin Bell,2018
+1337,Dr. Alyssa Velasquez,Dr. Kerri Hawkins; Dr. Sierra Castillo,2019
+1338,Dr. Debra Taylor,Dr. Thomas Johnson,2020
+1339,Dr. Crystal Jackson,Dr. Maria Case,2021
+1340,Dr. Holly Wolf,Dr. Michael Banks,2024
+1341,Dr. Michael Banks,Dr. Kelly Fisher,2017
+1342,Dr. Brian Chen,Dr. Danny Barnes,2016
+1343,Dr. Michael Long,Dr. Larry Brandt; Dr. Tonya Shea; Dr. Andrea Hicks,2015
+1344,Dr. Samantha Allen,Dr. Susan Collins; Dr. Devin Bell; Dr. Kevin Torres,2020
+1345,Dr. Larry Brandt,Dr. Sarah Walker,2022
+1346,Dr. David Burns,Dr. Thomas Hill; Dr. Todd English; Dr. Elizabeth Romero,2016
+1347,Dr. Tiffany Hall,Dr. Andrea Graham; Dr. Janet Holmes; Dr. Angela Wood,2017
+1348,Dr. Eric Woods,Dr. Jose Lara; Dr. Ashley Rivera; Dr. Michael Banks,2016
+1349,Dr. Jason Collins,Dr. Cheryl Carter; Dr. Jared Hart; Dr. Robert Hall,2016
+1350,Dr. Kelsey Stuart,Dr. Ashley Rivera,2023
+1351,Dr. Elizabeth Romero,Dr. Sarah Morris; Dr. Maria Case,2020
+1352,Dr. Amanda Wade,Dr. Sarah Walker,2023
+1353,Dr. Erika Morrison,Dr. Carolyn Munoz; Dr. David Burns; Dr. Andrea Graham,2017
+1354,Dr. Thomas Hill,Dr. Jennifer Oneill; Dr. Susan Collins,2016
+1355,Dr. Michael Banks,Dr. Katherine Clark,2022
+1356,Dr. Betty Baker,Dr. Jennifer Oneill; Dr. John Brown; Dr. Carolyn Munoz,2019
+1357,Dr. Katherine Clark,Dr. Jason Gentry; Dr. George Lester; Dr. Steve Ruiz,2020
+1358,Dr. David Burns,Dr. Jeffery Hines; Dr. Rodney Marsh; Dr. Kimberly Zuniga,2019
+1359,Dr. Heather Diaz,Dr. Deborah Avila,2017
+1360,Dr. Tiffany Hall,Dr. Erika Williams; Dr. Alyssa Velasquez,2024
+1361,Dr. Carolyn Munoz,Dr. Crystal Jackson; Dr. Sarah Walker; Dr. Tyler Hart,2020
+1362,Dr. Betty Baker,Dr. Jared Hart; Dr. Sarah Walker; Dr. Sarah Morris,2018
+1363,Dr. Michael Scott,Dr. Derrick Melendez; Dr. Janet Holmes,2015
+1364,Dr. Brian Chen,Dr. Kimberly Zuniga,2020
+1365,Dr. William Singleton,Dr. Cynthia Hinton,2020
+1366,Dr. Olivia Underwood,Dr. Adam Green; Dr. Kerri Hawkins,2017
+1367,Dr. Barbara Kirk,Dr. Jared Hart; Dr. Michelle Williams; Dr. Sierra Olson,2017
+1368,Dr. Shannon Hess,Dr. Michael Banks; Dr. David Scott; Dr. Katherine Clark,2022
+1369,Dr. Angela Wood,Dr. Jennifer Oneill; Dr. Cheryl Carter,2022
+1370,Dr. Derrick Melendez,Dr. John Brown; Dr. George Lester,2020
+1371,Dr. Alyssa Velasquez,Dr. Tonya Shea; Dr. Randy Caldwell; Dr. Kevin Torres,2024
+1372,Dr. Melissa Martinez,Dr. Sierra Olson; Dr. Ashley Rivera; Dr. Steve Ruiz,2020
+1373,Dr. Erika Williams,Dr. Ronnie Sullivan; Dr. Jose Lara,2015
+1374,Dr. Adam Green,Dr. Heather Diaz,2020
+1375,Dr. Sierra Olson,Dr. Shawn Flores; Dr. Samantha Allen; Dr. Maria Case,2021
+1376,Dr. William Barr,Dr. Larry Brandt,2021
+1377,Dr. Dominique Perez,Dr. Jason Collins; Dr. Richard Garcia,2018
+1378,Dr. Melissa Martinez,Dr. Carolyn Wagner; Dr. Debra Taylor,2024
+1379,Dr. Ronnie Sullivan,Dr. Justin Fitzgerald,2023
+1380,Dr. Billy Pacheco,Dr. Sierra Castillo; Dr. Carmen Castaneda; Dr. Jason Collins,2021
+1381,Dr. Michael Long,Dr. Roy Bryant; Dr. Crystal Jackson,2015
+1382,Dr. Angela Wood,Dr. Thomas Johnson; Dr. Sierra Olson; Dr. Tyler Hart,2018
+1383,Dr. Michael Banks,Dr. Devin Bell; Dr. Mary White,2022
+1384,Dr. Randy Caldwell,Dr. Jason Collins; Dr. Kelly Fisher,2021
+1385,Dr. John Harding,Dr. Alyssa Velasquez; Dr. Jose Lara,2018
+1386,Dr. Michael Scott,Dr. Jose Lara; Dr. Rodney Marsh,2015
+1387,Dr. Anthony Palmer,Dr. Thomas Johnson; Dr. Stacy Hanson; Dr. Raymond Montoya,2018
+1388,Dr. Melissa Torres,Dr. Kevin Torres; Dr. Cheryl Carter; Dr. Barbara Kirk,2019
+1389,Dr. Kelly Fisher,Dr. Cynthia Coleman; Dr. Eric Woods,2023
+1390,Dr. Kevin Torres,Dr. Jeffery Hines; Dr. Jose Lara; Dr. Crystal Jackson,2017
+1391,Dr. Carmen Castaneda,Dr. Kevin Torres; Dr. Lori Green; Dr. Michelle Williams,2024
+1392,Dr. Cynthia Coleman,Dr. Kevin Torres; Dr. Dominique Perez,2020
+1393,Dr. Elizabeth Romero,Dr. Betty Baker; Dr. Amanda Wade,2017
+1394,Dr. David Scott,Dr. Deborah Avila,2016
+1395,Dr. Derrick Melendez,Dr. Crystal Jackson,2024
+1396,Dr. Steve Ruiz,Dr. Shawn Flores,2018
+1397,Dr. Andrea Graham,Dr. John Harding,2017
+1398,Dr. Raymond Montoya,Dr. Eric Woods,2023
+1399,Dr. Cynthia Coleman,Dr. Latasha Thomas; Dr. Tyler Hart; Dr. Mark Weiss,2017
+1400,Dr. David Scott,Dr. Ronnie Sullivan,2021
+1401,Dr. Randy Caldwell,Dr. Raymond Montoya,2024
+1402,Dr. Betty Baker,Dr. George Lester; Dr. Robert Hall,2022
+1403,Dr. Mary White,Dr. Kimberly Zuniga; Dr. Michelle Williams; Dr. Derrick Melendez,2024
+1404,Dr. Erica Schroeder,Dr. Brian Chen; Dr. Tonya Shea,2019
+1405,Dr. Kevin Torres,Dr. Matthew Smith; Dr. Kerri Hawkins,2023
+1406,Dr. Shawn Flores,Dr. Steve Ruiz,2015
+1407,Dr. Cynthia Hinton,Dr. Barbara Kirk; Dr. Suzanne Jones; Dr. Elizabeth Romero,2018
+1408,Dr. Samantha Allen,Dr. Christopher Stanley; Dr. George Lester; Dr. Derrick Melendez,2023
+1409,Dr. Shannon Hess,Dr. Brian Chen; Dr. Sarah Walker,2019
+1410,Dr. Mitchell Wood,Dr. George Lester; Dr. Jeffery Hines,2022
+1411,Dr. Susan Collins,Dr. Justin Fitzgerald; Dr. Kelsey Stuart; Dr. Crystal Jackson,2018
+1412,Dr. Sarah Mills,Dr. Stacy Hanson; Dr. Susan Collins; Dr. Jennifer Oneill,2023
+1413,Dr. Sarah Mills,Dr. Lori Green,2016
+1414,Dr. Christopher Stanley,Dr. Andrea Hicks; Dr. Thomas Hill,2016
+1415,Dr. John Brown,Dr. Sarah Walker,2019
+1416,Dr. Shawn Flores,Dr. Randy Caldwell; Dr. Larry Brandt; Dr. Ronnie Sullivan,2017
+1417,Dr. Sierra Castillo,Dr. Sierra Olson; Dr. Christopher Stanley; Dr. Ashley Rivera,2017
+1418,Dr. David Villarreal,Dr. David Scott; Dr. Janet Holmes; Dr. Jeffery Hines,2020
+1419,Dr. Justin Fitzgerald,Dr. Jose Lara; Dr. Melissa Martinez; Dr. William Singleton,2019
+1420,Dr. Jeffery Hines,Dr. Raymond Montoya; Dr. Rodney Marsh,2019
+1421,Dr. Rodney Marsh,Dr. Stacy Hanson,2018
+1422,Dr. Tyler Hart,Dr. Suzanne Jones; Dr. Anthony Palmer,2018
+1423,Dr. Brian Chen,Dr. Michael Scott; Dr. John Harding; Dr. Adam Green,2022
+1424,Dr. Erika Morrison,Dr. Jeffery Hines; Dr. Shannon Hess; Dr. Sierra Castillo,2015
+1425,Dr. David Burns,Dr. Erika Williams; Dr. William Barr; Dr. David Gill,2023
+1426,Dr. Janet Holmes,Dr. Andrea Hicks; Dr. Randy Caldwell; Dr. Devin Bell,2023
+1427,Dr. Angela Wood,Dr. David Gill,2020
+1428,Dr. Thomas Johnson,Dr. James Ayala; Dr. Deborah Avila; Dr. Richard Garcia,2021
+1429,Dr. Lori Green,Dr. Deborah Avila,2018
+1430,Dr. David Scott,Dr. Jeffery Hines; Dr. Todd English; Dr. Michael Long,2015
+1431,Dr. David Gill,Dr. Deborah Avila; Dr. Andrea Hicks,2018
+1432,Dr. Lori Green,Dr. Brandon Alvarez; Dr. Latasha Thomas,2019
+1433,Dr. Mary White,Dr. Jennifer Oneill; Dr. Michael Long; Dr. Cynthia Hinton,2016
+1434,Dr. George Lester,Dr. Danny Barnes,2018
+1435,Dr. Jose Lara,Dr. Lori Green; Dr. Michelle Williams,2017
+1436,Dr. Richard Garcia,Dr. Michael Banks; Dr. Latasha Thomas,2016
+1437,Dr. William Singleton,Dr. Melissa Martinez; Dr. Lori Green,2021
+1438,Dr. Matthew Gonzales,Dr. Angela Wood; Dr. Holly Wolf; Dr. Kimberly Zuniga,2018
+1439,Dr. Ashley Rivera,Dr. Latasha Thomas; Dr. Shawn Flores,2016
+1440,Dr. Crystal Jackson,Dr. Elizabeth Romero; Dr. Tyler Hart,2015
+1441,Dr. Carolyn Munoz,Dr. Jennifer Oneill,2015
+1442,Dr. Cheryl Carter,Dr. Matthew Gonzales; Dr. Olivia Underwood; Dr. Ashley Rivera,2023
+1443,Dr. Michael Scott,Dr. Kevin Torres; Dr. Carmen Castaneda; Dr. Sarah Morris,2016
+1444,Dr. Brandon Alvarez,Dr. Ashley Rivera; Dr. James Ayala,2017
+1445,Dr. Cynthia Hinton,Dr. David Villarreal; Dr. Sarah Walker; Dr. Holly Wolf,2021
+1446,Dr. Amanda Wade,Dr. Dominique Perez; Dr. Shannon Hess; Dr. Danny Barnes,2021
+1447,Dr. Lori Green,Dr. David Villarreal,2022
+1448,Dr. Cynthia Coleman,Dr. Sarah Mills; Dr. Shannon Hess,2020
+1449,Dr. Carolyn Wagner,Dr. Justin Fitzgerald,2022
+1450,Dr. Crystal Jackson,Dr. Adam Green; Dr. Cynthia Coleman,2023
+1451,Dr. Carolyn Wagner,Dr. William Singleton; Dr. Thomas Hill; Dr. Ashley Rivera,2022
+1452,Dr. Rodney Marsh,Dr. Carmen Castaneda; Dr. Samantha Allen,2020
+1453,Dr. Shannon Hess,Dr. Amanda Wade; Dr. Cheryl Carter,2022
+1454,Dr. David Villarreal,Dr. Holly Wolf,2022
+1455,Dr. Kerri Hawkins,Dr. Amanda Wade; Dr. Holly Wolf; Dr. Tiffany Hall,2016
+1456,Dr. Suzanne Jones,Dr. Amanda Wade; Dr. Brian Chen; Dr. Robert Hall,2024
+1457,Dr. James Ayala,Dr. Betty Baker; Dr. Elizabeth Romero; Dr. Jennifer Oneill,2018
+1458,Dr. Deborah Avila,Dr. Alyssa Velasquez; Dr. Angela Wood,2021
+1459,Dr. Dominique Perez,Dr. Jennifer Oneill; Dr. Betty Baker,2023
+1460,Dr. James Ayala,Dr. Amanda Wade,2024
+1461,Dr. Tiffany Hall,Dr. Tonya Shea; Dr. Carolyn Wagner,2019
+1462,Dr. Larry Brandt,Dr. Kelsey Stuart; Dr. Jeffery Hines; Dr. Stacy Hanson,2024
+1463,Dr. Jason Gentry,Dr. Jose Lara,2016
+1464,Dr. Jason Gentry,Dr. Danny Barnes; Dr. David Scott; Dr. Melissa Martinez,2019
+1465,Dr. Justin Fitzgerald,Dr. Sierra Castillo,2020
+1466,Dr. Elizabeth Romero,Dr. Amanda Wade; Dr. Shannon Hess,2023
+1467,Dr. Deborah Avila,Dr. Jason Collins; Dr. Kevin Torres; Dr. Randy Caldwell,2022
+1468,Dr. Erika Morrison,Dr. Jason Collins; Dr. Mary White; Dr. David Burns,2015
+1469,Dr. Holly Wolf,Dr. Erika Williams; Dr. Anthony Palmer; Dr. Suzanne Jones,2016
+1470,Dr. Eric Woods,Dr. Alyssa Velasquez; Dr. Kimberly Zuniga,2016
+1471,Dr. David Burns,Dr. Shannon Hess,2015
+1472,Dr. Cynthia Hinton,Dr. Holly Wolf,2023
+1473,Dr. Michael Long,Dr. William Barr; Dr. Mary White,2018
+1474,Dr. Brian Chen,Dr. George Lester,2020
+1475,Dr. Stacy Hanson,Dr. Cheryl Carter; Dr. William Barr; Dr. Sarah Morris,2021
+1476,Dr. Maria Case,Dr. Carmen Castaneda; Dr. Richard Garcia,2016
+1477,Dr. Kimberly Zuniga,Dr. Rodney Marsh; Dr. Eric Woods; Dr. Christopher Stanley,2017
+1478,Dr. Billy Pacheco,Dr. Elizabeth Romero; Dr. William Barr,2022
+1479,Dr. William Barr,Dr. Katherine Clark,2017
+1480,Dr. Billy Pacheco,Dr. Samantha Allen; Dr. Rodney Marsh; Dr. Jared Hart,2018
+1481,Dr. Crystal Jackson,Dr. Justin Fitzgerald,2021
+1482,Dr. Dominique Perez,Dr. Tonya Shea,2017
+1483,Dr. Samantha Allen,Dr. William Barr,2023
+1484,Dr. Tyler Hart,Dr. Erica Schroeder; Dr. Amanda Wade; Dr. Robert Hall,2016
+1485,Dr. David Burns,Dr. Dominique Perez; Dr. Andrea Graham,2019
+1486,Dr. Alyssa Velasquez,Dr. Mary White; Dr. Tyler Hart,2022
+1487,Dr. Derrick Melendez,Dr. Michael Banks; Dr. Crystal Jackson; Dr. Angela Wood,2019
+1488,Dr. Matthew Smith,Dr. Amanda Wade; Dr. Erika Williams; Dr. Lori Green,2024
+1489,Dr. Brian Chen,Dr. Matthew Gonzales; Dr. Mark Weiss,2023
+1490,Dr. Suzanne Jones,Dr. Dominique Perez; Dr. Sierra Olson,2016
+1491,Dr. Dominique Perez,Dr. Suzanne Jones; Dr. Ashley Rivera,2018
+1492,Dr. Michael Long,Dr. Melissa Martinez,2024
+1493,Dr. Jared Hart,Dr. William Singleton,2019
+1494,Dr. Dominique Perez,Dr. Crystal Jackson; Dr. John Harding,2023
+1495,Dr. Devin Bell,Dr. Adam Green,2021
+1496,Dr. Thomas Hill,Dr. Matthew Gonzales; Dr. Jason Collins; Dr. Tiffany Hall,2015
+1497,Dr. Eric Woods,Dr. Robert Hall; Dr. Olivia Underwood,2023
+1498,Dr. Susan Collins,Dr. Michelle Williams; Dr. Carolyn Wagner,2015
+1499,Dr. Mitchell Wood,Dr. Sarah Morris; Dr. Tyler Hart; Dr. Michael Scott,2018
